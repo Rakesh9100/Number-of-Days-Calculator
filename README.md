@@ -1,4 +1,4 @@
-# <p align="center">Number-of-Days-Calculator</p>
+# <p align="center">📱Number-of-Days-Calculator📱</p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -67,4 +67,3 @@ git clone https://github.com/<your-github-username>/Number-of-Days-Calculator.gi
 <h3>Give it a 🌟 if you ❤ this project. Happy Coding👨‍💻</h3>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
